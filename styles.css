@@ -1,5 +1,5 @@
 html {
-	background-color: #333332;
+    background-color: #333332;
     font-family: 'Montserrat', sans-serif;
 
 }
@@ -12,8 +12,18 @@ p {
 }
 
 h1 {
-    font-size: 3em;
+    font-size: 4em;
     color: #fff;
     margin: auto;
     padding: auto;
+}
+
+a {
+    font-size: 2em;
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover {
+    color: #e34;
 }
