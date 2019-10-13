@@ -1,5 +1,6 @@
 html {
-    background-color: #333332;
+    background-image: url("./images/Sherlock-Holmes.jpg");
+    background-size: cover;
     font-family: 'Montserrat', sans-serif;
 
 }
