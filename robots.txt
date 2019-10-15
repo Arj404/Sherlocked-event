@@ -1,0 +1,2 @@
+User-agent: *
+disallow: /Mario.html disallow: /B204.html disallow:/M.H.17.html disallow:story.html
